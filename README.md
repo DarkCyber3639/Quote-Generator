@@ -16,8 +16,9 @@ A simple Python application that generates random motivational quotes.
 - Python 3.6 or higher
 
 ### Clone the Repository
-git clone https://github.com/YOUR\_USERNAME/quote-generator.git
-cd quote-generator
+git clone https://github.com/DarkCyber3639/quote-generator.git
+
+cd Quote-Generator
 
 ### Usage:
 python quote_generator.py
